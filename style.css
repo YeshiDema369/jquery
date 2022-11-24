@@ -1,0 +1,184 @@
+#main-con {
+  /* width: 600px; */
+  height: 700px;
+  background-color: aquamarine;
+  /* margin-left: 300px; */
+}
+#secondmain-con {
+  height: 2300px;
+  background-color: aquamarine;
+}
+.head-con {
+  height: 80px;
+  background-color: blueviolet;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+li:hover {
+  color: black;
+  background-color: aliceblue;
+}
+#home {
+  font-size: larger;
+  color: brown;
+  background-color: aliceblue;
+  border-radius: 100px;
+}
+#panel,
+#flip {
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  background-color: deeppink;
+  border: solid 1px #eff2f4;
+  border-radius: 3px;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+#animate {
+  height: 150px;
+  width: 250px;
+  position: absolute;
+}
+.div1 {
+  padding: 150px 0 0 0;
+}
+#hiding-con {
+  background-color: cornflowerblue;
+  height: 100px;
+}
+.input-con {
+  background-color: burlywood;
+}
+.set-con {
+  background-color: cadetblue;
+}
+.end-con {
+  color: rgba(254, 254, 250, 0.92);
+  text-align: center;
+}
+.p-con {
+  color: darkorange;
+  font-size: larger;
+}
+#btn-first {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: blue;
+}
+#btn-second {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: chartreuse;
+}
+#remove-btn {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: darkgoldenrod;
+}
+
+h2 {
+  height: 100px;
+  width: 500px;
+  font-size: 20px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+}
+#hide {
+  background-color: lavender;
+  border-radius: 10px;
+  padding: 6px 20px 8px 30px;
+}
+#show {
+  background-color: #eff2f4;
+  border-radius: 10px;
+  padding: 6px 20px 8px 30px;
+}
+.hide-con {
+  background-color: cornflowerblue;
+  height: 300px;
+}
+.Anmi-con {
+  background-color: #f35656;
+  border-radius: 10px;
+  padding: 6px 20px 8px 30px;
+}
+img {
+  margin-left: 300px;
+}
+/* .div1 {
+  background-color: darkturquoise;
+}
+.div2 {
+  background-color: darkturquoise;
+}
+.div3 {
+  background-color: darkturquoise;
+} */
+.fade-btn {
+  background-color: cyan;
+  border-radius: 6px;
+  padding: 5px 20px 5px 20px;
+  margin-left: 160px;
+}
+#stop {
+  background-color: rgb(153, 213, 200);
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+}
+#btn {
+  background-color: rgb(233, 20, 233);
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+}
+#input-btn {
+  border-radius: 5px;
+  background-color: cyan;
+}
+.set-con {
+  text-align: center;
+  box-shadow: cornflowerblue;
+}
+#btn1 {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: cadetblue;
+}
+#btn2 {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: chartreuse;
+}
+#btn3 {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: darkorange;
+}
+#last-con {
+  box-shadow: 0px 30px 5px 0px blanchedalmond;
+}
+#dms-btn {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: aqua;
+}
+#back-btn {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  background-color: dodgerblue;
+}
+#add-btn {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+}
